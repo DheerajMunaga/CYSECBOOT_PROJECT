@@ -1,0 +1,9 @@
+
+-------------------------------------------------------------
+Weather Stats for - VIJAYAWADA  || 22 Jun 2021 | 07:38:26 PM
+-------------------------------------------------------------
+
+Current temperature is: 30.97 deg C
+Current weather desc  : haze
+Current Humidity      : 66 %
+Current wind speed    : 2.57kmph 
